@@ -108,7 +108,7 @@ Methods:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/persistent-bst.git
+git clone https://github.com/mohammedobaidraza/bst.git
 
 # Navigate to the project directory
 cd persistent-bst
