@@ -1,4 +1,4 @@
-# Persistent Binary Search Tree
+# Persistent Binary Search Tree.
 
 A Python implementation of a persistent binary search tree that maintains the history of all operations, allowing access to previous versions of the tree.
 
